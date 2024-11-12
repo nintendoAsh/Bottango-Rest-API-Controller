@@ -1,4 +1,4 @@
-# Bottango-Rest-API-Controller
+# Bottango Rest API Controller
 
 # About
 
