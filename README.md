@@ -1,2 +1,4 @@
 # Bottango-Rest-API-Controller
-this app allows you to control the animatronic animation software bottango with the rest API. this allows you to play, pause and scrub throo animations wirelessly as long as you are on the same network at the computer running bottango. it is made in unity and is fully open sorced.
+
+#About
+This app allows you to wirelessly play, pause, and scrub through animations on Bottango using its REST API. Whether adjusting playback or navigating through complex animation sequences, this app simplifies animatronic control over your local network. 
